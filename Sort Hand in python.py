@@ -1,0 +1,5 @@
+print("Jai mataji")
+a = int(input("Enter A\n"))
+b = int(input("Enter B\n"))
+#if a>b: print("A B Se bada hai bhai ")
+print("B A se bada hai Bhai") if a<b else print("A B Se bada hai bhai ")
